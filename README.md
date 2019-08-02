@@ -1,4 +1,4 @@
-# c-sql-server-connection
+# c-sharp-sql-server-connection
 ![](giriş.png)
 
 ![](kayıt.png)
